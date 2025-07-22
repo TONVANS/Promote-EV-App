@@ -32,8 +32,8 @@ export function Manage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 space-x-1 content-center justify-items-center">
           <div className='col-span-6'>
             <Image
-              src='/images/manage/management.jpg'
-              alt='payment'
+              src='/images/ev-news/battery-tech.jpg'
+              alt='manage'
               width={600}
               height={500}
               className='rounded-md'
