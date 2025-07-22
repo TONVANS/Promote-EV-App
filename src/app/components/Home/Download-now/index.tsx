@@ -20,7 +20,7 @@ export default function Download() {
                     />
                 </Link>
                 <p className='text-lg font-normal text-center text-gray-600 pt-5 max-w-2xl mx-auto mb-16'>
-                    * Requires iOS 12.1 or higher *Android 6 or higher
+                    * Requires iOS 12.0 or higher *Android 6 or higher
                 </p>
             </div>
         </section>
