@@ -10,7 +10,7 @@ const Payment = () => {
           <div className='col-span-6'>
             <Image
               src='/images/payment/payment.png'
-              alt='payment'
+              alt=''
               width={600}
               height={500}
             />
